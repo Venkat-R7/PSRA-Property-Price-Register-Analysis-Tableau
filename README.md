@@ -5,7 +5,6 @@ Tableau Dashboard:
 https://public.tableau.com/views/Property_Price_Analysis_GIS_16878638987420/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ## Introduction
-
 Interpretation of the data is very important as it could help in deriving meaningful information for appropriate decision making. The Irish property price register data was analysed using graphical techniques such as plots and maps to gain valuable insights. For a deeper understanding two other datasets were used as a reference. The county-wise population of Ireland was downloaded. The population details of Ireland are available for the years 2011, 2016 and 2022 from the official census and intermediate census data. To further analyse the demographic details, the area information of each county in Ireland was downloaded. The area dataset provides the size of each county in Ireland in km2.
 
 
