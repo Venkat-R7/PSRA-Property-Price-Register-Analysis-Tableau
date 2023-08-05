@@ -1,6 +1,10 @@
 # PSRA-Property-Price-Register-Analysis-Tableau
 
+
+## Property price trend
 ![](Images/Image1.png)
+
+The Irish property price trend was analysed using bar plots and line graphs. Figure shows the tab1 of the dashboard. The average property price in Ireland has been steadily increasing for the past 8 years (2014 - 2022). Prior to 2013, Ireland's property values experienced a sharp decline from 2010 to 2013, which can be directly attributed to the global economic crisis that began in 2008. The country began to emerge from the crisis in 2012, and as a result, prices began to rise. The demand for housing surged as a result of various other causes, including less availability of properties and a significantly high demand due to reasons like influx of immigrants from other counties.
 
 ![](Images/Image2.png)
 
